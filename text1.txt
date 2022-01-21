@@ -1,0 +1,3 @@
+Hallo, ini file latihan
+
+repo pertama di github!
